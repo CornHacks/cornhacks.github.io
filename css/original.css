@@ -47,11 +47,13 @@ section {
 /* 
  * Hero Section
  */
+.container{
+  background-image: url("../images/corn_placeholder_crop.png");
+}
 
 .hero {
   background-color: #F5699C;
   min-height: 110vh;
-  background-image: url("../images/corn_placeholder_crop.png");
 }
 
 .hero img {
