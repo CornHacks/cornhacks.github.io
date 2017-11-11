@@ -58,7 +58,7 @@ event:
   # Info Sections
   info:
     sections:
-      - image: "images/image1.png"
+      - image: "images/logo.png"
         title: "LEARN."
         description: >
           We can write something nice with a graphic (as above) to make the event more appealing.
