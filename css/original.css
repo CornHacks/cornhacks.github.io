@@ -70,7 +70,7 @@ section {
 }
 
 .hero .wrapper h1 {
-  background: #fff;
+  background: #45bf2a;
   background: rgba(255, 255, 255, .3);
   display: inline-block;
   font-size: 60px;
@@ -110,8 +110,8 @@ section {
 
 .hero .buttons a:hover,
 .hero .buttons a:focus {
-  background-color: #0F2C34;
-  color: #fff;
+  background-color: #45bf2a;
+  color: #45bf2a;
   transition: all 0.2s ease;
 }
 
