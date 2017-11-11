@@ -47,7 +47,7 @@ event:
           client_id:    "5924f24c2e8737c9c7f19e29c5159a4e576b701b8a9a182b84aa4d32053f1c24"
           redirect_uri: "https://cornhacks.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
-        href: "mailto:cornhacks@gmail.com"
+        href: "mailto:cornhacks2018@gmail.com"
 
   about:
     description: >
