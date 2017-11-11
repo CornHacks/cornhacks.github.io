@@ -50,6 +50,7 @@ section {
 
 .hero {
   background-color: #F5699C;
+  background-image: "images/corn_placeholder_crop.png";
   min-height: 110vh;
 }
 
