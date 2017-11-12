@@ -31,7 +31,7 @@ seo:
 # Event information.
 event:
   name:        "CornHacks"
-  description: "Hackathon"
+  description: "Undergraduate hackathon at UNL"
   date:        "February 17-18, 2018"
   location:    "Lincoln, NE, United States"
 
@@ -82,24 +82,34 @@ event:
         Nothing! Admission is free and includes meals, drinks, snacks, overnight hosting, workshops, swag, and a memorable learning experience!
     - question: "Do I need to be a student to attend?"
       answer: >
-        Yes. Only students who are currently enrolled at a college/university or
+        Yes. Only undergraduate students who are currently enrolled at a college/university or
         have graduated within the past 12 months are eligible to attend.
     - question: "Where is the event?"
       answer: >
         The event is being hosted at Kauffman Hall on the University of Nebraska-Lincoln's campus. The address is 630 N 15th St, Lincoln, NE 68508.
+    - question: "Will there be prizes?"
+      answer: >
+        Yes! Over $3,000 worth of prizes will be awarded for the best hacks.
+    - question: "How will I get there?"
+      answer: >
+        Travel reimbursements will be available on a case-by-case basis. Keep your receipts and let us know on your application if you 
+        will need reimbursements.
+    - question: "Where will I sleep?"
+      answer: >
+        A sleeping area will be provided. Bring a sleeping bag and pillow!
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
         They work with over 200 Member Events and empower over 70,000 students every year.
-    - question: "Is there a code of conduct?"
-      answer: >
-        Yes there is. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
     - question: "What if I don't have a team?"
       answer: >
         If you don’t have a team now, that’s okay! We’ll have team formation and events geared towards helping you find people to work with.
     - question: "What will I eat?"
       answer: >
         We’ll provide food for all meals from Saturday’s breakfast to Sunday’s lunch. If you have dietary restrictions, we’ll try our best to accommodate them. We’ll also have snacks throughout the hackathon.
+    - question: "Is there a code of conduct?"
+      answer: >
+        Yes there is. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
 
   # This is the message you'll receive once you've registered.
   register:
