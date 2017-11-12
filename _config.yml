@@ -51,9 +51,9 @@ event:
 
   about:
     description: >
-      CornHacks is a hackathon hosted at The University of Nebraska-Lincoln.
-      This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.
+      CornHacks aims to bring some of the most talented developers from around the Midwest to join in a weekend full of hacking. 
+
+      Hosted at the University of Nebraska-Lincoln, over 100 participants will code all day and night to be judged by industry professionals and compete for several prizes.
 
   # Info Sections
   info:
