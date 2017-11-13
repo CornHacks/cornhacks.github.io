@@ -52,6 +52,7 @@ section {
   background-color: #45bf2a;
   min-height: 110vh;
   background-image: url("../images/banner-2.png");
+  background-repeat: no-repeat;
 }
 
 .hero img {
