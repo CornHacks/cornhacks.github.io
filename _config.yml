@@ -61,15 +61,15 @@ event:
       - image: "images/icons8-literature.png"
         title: "LEARN."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Strengthen your skills. Learn a new technology. Get help from experts.
       - image: "images/icons8-hammer.png"
         title: "BUILD."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Work as a team on an innovative idea.
       - image: "images/icons8-share.png"
         title: "SHARE."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Present your hack. Win a prize.
 
   # Frequently asked questions.
   faq:
