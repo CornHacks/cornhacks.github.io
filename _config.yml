@@ -32,8 +32,8 @@ seo:
 event:
   name:        "CornHacks"
   description: "Undergraduate hackathon at UNL"
-  date:        "February 17-18, 2018"
-  location:    "Lincoln, NE, United States"
+  date:        "April 14th, 2018 @ 10 AM"
+  location:    "Avery Hall 347"
 
   trust_badge:
     year:   "2018"  # season year
