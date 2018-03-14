@@ -74,27 +74,22 @@ event:
     - question: "What is a hackathon?"
       answer: >
         A hackathon is an invention marathon. Students come together to build cool
-        software and hardware hacks over 24 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
+        software and hardware hacks over the weekend. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
     - question: "How much does it cost?"
       answer: >
-        Nothing! Admission is free and includes meals, drinks, snacks, overnight hosting, workshops, swag, and a memorable learning experience!
+        Nothing! Admission is free and includes meals, drinks, snacks, workshops, swag, and a memorable learning experience!
     - question: "Do I need to be a student to attend?"
       answer: >
-        Yes. Only undergraduate students who are currently enrolled at a college/university or
-        have graduated within the past 12 months are eligible to attend.
+        Yes. Only undergraduate students who are currently enrolled at the University of Nebraska-Lincoln are eligble to attend.
+    - question: "What is the schedule?"
+      answer: >
+        The event begins Saturday, April 14 at 10am. The event will end at 10pm and re-open the next day, Sunday, at 10am. Prizes and lunch will be at noon, with the event ending at 1:30pm.
     - question: "Where is the event?"
       answer: >
         The event is being hosted at Avery Hall on the University of Nebraska-Lincoln's campus. The address is 630 N 15th St, Lincoln, NE 68508.
     - question: "Will there be prizes?"
       answer: >
-        Yes! Over $3,000 worth of prizes will be awarded for the best hacks.
-    - question: "How will I get there?"
-      answer: >
-        Travel reimbursements will be available on a case-by-case basis. Keep your receipts and let us know on your application if you 
-        will need reimbursements.
-    - question: "Where will I sleep?"
-      answer: >
-        A sleeping area will be provided. Bring a sleeping bag and pillow!
+        Yes! Over $500 worth of prizes will be awarded for the best hacks.
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
