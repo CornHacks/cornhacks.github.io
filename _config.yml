@@ -69,6 +69,13 @@ event:
         description: >
           Present your hack. Win a prize.
 
+  # Info Sections
+  sponsorship:
+    sections:
+      - image: "images/Spreetail_logo.png"
+      - image: "images/td_ameritrade_fullcoorRGBpng.png"
+      - image: "images/teamsoftware.jpg"
+        
   # Frequently asked questions.
   faq:
     - question: "What is a hackathon?"

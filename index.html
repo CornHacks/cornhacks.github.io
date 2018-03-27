@@ -28,6 +28,21 @@ layout: default
   </div>
 </section>
 
+<section class="sponsorship">
+  <div class="container">
+    <h1 class="text-center">Sponsors</h1>
+    <div class="items row">
+      {% for section in site.event.sponsorship.sections %}
+        <div class="col-xs-12 col-sm-4 text-center">
+          <div class="item">
+            <img src="{{ section.image }}" />
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
 <section class="faq">
   <div class="container">
     <h1 class="text-center">FAQ</h1>
