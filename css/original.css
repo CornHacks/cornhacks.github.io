@@ -260,7 +260,7 @@ section {
 }
 
 @media(max-width: 768px) {
-  .items img{
+  .item img{
     border-width: 8px;
     display: block;
     font-size: 20px;
