@@ -258,3 +258,12 @@ section {
     top: -8px;
   }
 }
+
+@media(max-width: 768px) {
+  .hero .items a {
+    border-width: 8px;
+    display: block;
+    font-size: 20px;
+    margin: 5px;
+  }
+}
