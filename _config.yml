@@ -69,11 +69,13 @@ event:
         description: >
           Present your hack. Win a prize.
 
-  # Info Sections
+  # Sponsorship Sections
   sponsorship:
     sections:
       - image: "images/Spreetail_logo_800x450.png"
+
       - image: "images/td_ameritrade_fullcolorRGB_854x300.png"
+
       - image: "images/logo_TeamSoftware_717x125.jpg"
         
   # Frequently asked questions.
