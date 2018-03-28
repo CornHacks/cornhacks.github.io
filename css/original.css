@@ -260,7 +260,7 @@ section {
 }
 
 @media(max-width: 768px) {
-  .hero .items a {
+  .hero .items img{
     border-width: 8px;
     display: block;
     font-size: 20px;
