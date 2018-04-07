@@ -179,7 +179,6 @@ section {
  */
 
 .sponsorship {
-  display: inline;
   background-color: #fff;
   margin-top: 15px;
   padding: 100px 0;
@@ -191,6 +190,7 @@ section {
 }
 
 .sponsorship .item img {
+  display: inline;
   margin-left: auto;
   margin-right: auto;
   max-width: 500px;
