@@ -49,7 +49,7 @@ event:
 
   about:
     description: >
-      CornHacks aims to bring some of the most talented developers from around the Midwest to join in a weekend full of hacking. 
+      CornHacks aims to bring some of the most talented developers from around the Midwest to join in a weekend full of hacking.
 
       Hosted at the University of Nebraska-Lincoln, over 100 participants will code all day and night to be judged by industry professionals and compete for several prizes.
 
@@ -81,7 +81,7 @@ event:
       - image: "images/logo_TeamSoftware_100x574.png"
 
       - image: "images/Infogressive.jpg"
-        
+
   # Frequently asked questions.
   faq:
     - question: "What is a hackathon?"
