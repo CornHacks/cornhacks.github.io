@@ -80,7 +80,7 @@ event:
 
       - image: "images/logo_TeamSoftware_100x574.png"
 
-      #- image: "images/Infogressive.jpg"
+      - image: "images/Infogressive.jpg"
 
   # Frequently asked questions.
   faq:
