@@ -67,15 +67,15 @@ event:
       - image: "images/icons8-share.png"
         title: "SHARE."
         description: >
-          Present your hack. Win a prize.
+          Present your {% ehack. Win a prize.
 
   # Sponsorship Sections
   sponsorship:
-    sections:
+    gold:
       - image: "images/Facebook-black.jpg"
 
       - image: "images/td_ameritrade_fullcolorRGB_200x569.png"
-
+    silver:
       - image: "images/Spreetail_logo_100x178.png"
 
       - image: "images/logo_TeamSoftware_100x574.png"
