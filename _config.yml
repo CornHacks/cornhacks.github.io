@@ -74,13 +74,13 @@ event:
     gold:
       - image: "images/Facebook- black.png"
 
-      - image: "images/td_ameritrade_BWpng.png"
+      - image: "images/td_ameritrade_fullcolorRBGpng.png"
     silver:
-      - image: "images/Spreetail_logo_100x178.png"
+      - image: "images/Spreetail_logo.png"
 
-      - image: "images/logo_TeamSoftware_100x574.png"
+      - image: "images/TEAM Software Logo.png"
 
-      - image: "images/Infogressive.jpg"
+      - image: "images/Infogressive.png"
 
   # Frequently asked questions.
   faq:
