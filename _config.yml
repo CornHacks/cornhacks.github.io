@@ -74,7 +74,7 @@ event:
     gold:
       - image: "images/Facebook-black.jpg"
 
-      - image: "images/td_ameritrade_fullcolorRGB_200x569.png"
+      - image: "images/td_ameritrade_BW.png"
     silver:
       - image: "images/Spreetail_logo_100x178.png"
 
