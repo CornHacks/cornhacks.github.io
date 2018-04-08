@@ -72,7 +72,7 @@ event:
   # Sponsorship Sections
   sponsorship:
     gold:
-      - image: "images/Facebook-black.png"
+      - image: "images/Facebook.png"
 
       - image: "images/td_ameritrade_fullcolorRGBpng.png"
     silver:
