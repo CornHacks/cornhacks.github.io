@@ -72,9 +72,9 @@ event:
   # Sponsorship Sections
   sponsorship:
     gold:
-      - image: "images/TalentPlus.jpeg"
+      - image: "images/TalentPlus.jpg"
     silver:
-      - image: "images/TalentPlus.jpeg"
+      - image: "images/TalentPlus.jpg"
 
   # Frequently asked questions.
   faq:
