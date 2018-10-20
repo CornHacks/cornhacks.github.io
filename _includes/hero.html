@@ -6,7 +6,7 @@
     <hr>
     <div class="buttons">
       {% for link in site.event.hero.links %}
-        {% if link === "https://cornhacks-2019.devpost.com" %}
+        {% if link.href === "https://cornhacks-2019.devpost.com" %}
           <br>
         {% endif %}
         {% if link.href %}
