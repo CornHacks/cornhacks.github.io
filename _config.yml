@@ -72,15 +72,9 @@ event:
   # Sponsorship Sections
   sponsorship:
     gold:
-      - image: "images/Facebook.png"
-
-      - image: "images/td_ameritrade_fullcolorRGBpng.png"
+      - image: "images/TalentPlus.jpeg"
     silver:
-      - image: "images/Spreetail_logo.png"
-
-      - image: "images/TEAM Software Logo.png"
-
-      - image: "images/Infogressive.png"
+      
 
   # Frequently asked questions.
   faq:
