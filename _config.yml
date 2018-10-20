@@ -47,7 +47,7 @@ event:
       - text: "Sponsor"
         href: "mailto:cornhacks@gmail.com"
    
-  hero:
+  hero2:
     links:
       - text: "View on DevPost"
         href: "https://cornhacks-2019.devpost.com"
