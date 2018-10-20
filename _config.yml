@@ -43,7 +43,7 @@ event:
   hero:
     links:
       - text: "Register"
-        href: "https://docs.google.com/forms/d/e/1FAIpQLSd1yYPAjdBB7w7tyhE1Er8lZuvSfNAaGZm44L0K_gBj43UB0A"
+        href: "https://docs.google.com/forms/d/e/1FAIpQLSd1yYPAjdBB7w7tyhE1Er8lZuvSfNAaGZm44L0K_gBj43UB0A/viewform?usp=sf_link"
       - text: "Sponsor"
         href: "mailto:cornhacks@gmail.com"
    
