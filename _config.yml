@@ -31,21 +31,21 @@ seo:
 # Event information.
 event:
   name:        "CornHacks"
-  description: "Undergraduate   hackathon at UNL"
-  date:        "April 14th, 2018 @ 10 AM"
-  location:    "Avery Hall 347"
+  description: "Undergraduate hackathon at UNL"
+  date:        "January 19 - 20, 2019"
+  location:    "UNL Campus (specific location forthcoming)"
 
   trust_badge:
-    year:   "2018"  # season year
+    year:   "2019"  # season year
     region: "na"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
-      - text: "Apply"
+      - text: "Register"
         href: "https://goo.gl/forms/gj88WTixO0798Nd02"
       - text: "Sponsor"
-        href: "mailto:cornhacks2018@gmail.com"
+        href: "mailto:cornhacks@gmail.com"
 
   about:
     description: >
