@@ -6,9 +6,6 @@
     <hr>
     <div class="buttons">
       {% for link in site.event.hero.links %}
-        {% if link.href === "https://cornhacks-2019.devpost.com" %}
-          <br>
-        {% endif %}
         {% if link.href %}
           <a href="{{ link.href }}">{{ link.text }}</a>
         {% elsif link.my_mlh %}
