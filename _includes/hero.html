@@ -5,12 +5,16 @@
     <h3 rel="location">{{ site.event.date }} &mdash; {{ site.event.location }}</h3>
     <hr>
     <div class="buttons">
-      {% let a = 0; %}
       {% for link in site.event.hero.links %}
-        {% a++; %}
-        {% if a === 3 %}
-          <br><br><br><br><br><br><br><br>
+        {% if link.href %}
+          <a href="{{ link.href }}">{{ link.text }}</a>
+        {% elsif link.my_mlh %}
+          <a class="apply" href="https://goo.gl/forms/gj88WTixO0798Nd02">{{ link.text }}</a>
         {% endif %}
+      {% endfor %}
+    </div>
+    <div class="buttons">
+      {% for link in site.event.hero2.links %}
         {% if link.href %}
           <a href="{{ link.href }}">{{ link.text }}</a>
         {% elsif link.my_mlh %}
