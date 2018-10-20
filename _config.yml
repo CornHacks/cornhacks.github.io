@@ -46,6 +46,9 @@ event:
         href: "https://goo.gl/forms/gj88WTixO0798Nd02"
       - text: "Sponsor"
         href: "mailto:cornhacks@gmail.com"
+   
+  hero:
+    links:
       - text: "View on DevPost"
         href: "https://cornhacks-2019.devpost.com"
 
