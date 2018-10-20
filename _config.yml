@@ -87,16 +87,16 @@ event:
         Nothing! Admission is free and includes meals, drinks, snacks, workshops, swag, and a memorable learning experience!
     - question: "Do I need to be a student to attend?"
       answer: >
-        Yes. Only undergraduate students who are currently enrolled at the University of Nebraska are eligble to attend.
+        Yes. Only undergraduate students who are at least 18 years old are able to attend.
     - question: "What is the schedule?"
       answer: >
-        The event begins Saturday, April 14 at 10am. The event will end at 10pm and re-open the next day, Sunday, at 10am. Prizes and lunch will be at noon, with the event ending at 1:30pm.
+        TBA
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at Avery Hall on the University of Nebraska-Lincoln's campus. The address is 256 Avery Hall, Lincoln, NE 68588.
+        The event is being hosted at the University of Nebraska-Lincoln's campus. The exact location coming soon.
     - question: "Will there be prizes?"
       answer: >
-        Yes! Over $500 worth of prizes will be awarded for the best hacks.
+        Amount TBA
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
