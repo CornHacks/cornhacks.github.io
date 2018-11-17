@@ -78,7 +78,9 @@ event:
   sponsorship:
     gold:
       - image: "images/TalentPlus.jpeg"
+      - image: "images/bt.jpeg"
     silver:
+      - image: "images/TEAM Software Logo.png"
       
 
   # Frequently asked questions.
