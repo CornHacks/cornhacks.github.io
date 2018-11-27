@@ -79,8 +79,8 @@ event:
     gold:
       - image: "images/BT_3.jpg"
     silver:
-      - image: "images/TS_3.jpg"
       - image: "images/TP_3.jpg"
+      - image: "images/TS_3.jpg"
       
 
   # Frequently asked questions.
