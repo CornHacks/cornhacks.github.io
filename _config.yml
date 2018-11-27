@@ -80,6 +80,7 @@ event:
       - image: "images/BT_3.jpg"
     silver:
       - image: "images/TP_3.jpg"
+      - image: "images/blank.jpg"
       - image: "images/TS_3.jpg"
       
 
