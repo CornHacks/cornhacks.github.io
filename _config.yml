@@ -33,7 +33,7 @@ event:
   name:        "CornHacks"
   description: "Undergraduate hackathon at UNL"
   date:        "January 19 - 20, 2019"
-  location:    "UNL Campus (specific location forthcoming)"
+  location:    "Avery Hall"
 
   trust_badge:
     year:   "2018"  # season year
