@@ -77,10 +77,10 @@ event:
   # Sponsorship Sections
   sponsorship:
     gold:
-      - image: "images/BT_2.png"
+      - image: "images/BT_3.jpg"
     silver:
-      - image: "images/TS_2.png"
-      - image: "images/TP_2.png"
+      - image: "images/TS_3.jpg"
+      - image: "images/TP_3.jpg"
       
 
   # Frequently asked questions.
