@@ -72,7 +72,7 @@ event:
       - image: "images/icons8-share.png"
         title: "SHARE."
         description: >
-          Present your {% ehack. Win a prize.
+          Present your hack. Win a prize.
 
   # Sponsorship Sections
   sponsorship:
