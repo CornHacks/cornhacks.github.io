@@ -32,8 +32,8 @@ seo:
 event:
   name:        "CornHacks"
   description: "Undergraduate hackathon at UNL"
-  date:        "January 19 - 20, 2019"
-  location:    "Avery Hall"
+  date:        "January 18 - 19, 2020"
+  location:    "UNL"
 
   trust_badge:
     year:   "2019"  # season year
@@ -46,7 +46,7 @@ event:
         href: "https://docs.google.com/forms/d/e/1FAIpQLSd1yYPAjdBB7w7tyhE1Er8lZuvSfNAaGZm44L0K_gBj43UB0A/viewform?usp=sf_link"
       - text: "Sponsor"
         href: "mailto:cornhacks@gmail.com"
-   
+
   hero2:
     links:
       - text: "View on DevPost"
@@ -78,11 +78,7 @@ event:
   sponsorship:
     gold:
       - image: "images/Builder_Trend_0.jpg"
-    silver:
-      - image: "images/Talent_Plus_0.jpg"
-      - image: "images/TEAM_Software_0.jpg"
-      - image: "images/Spreetail_0.jpg"
-      
+      - image: "images/DMSi_WEBSITE_FinalLogo_RGB.png"
 
   # Frequently asked questions.
   faq:
