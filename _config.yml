@@ -79,6 +79,8 @@ event:
     gold:
       - image: "images/Builder_Trend_0.jpg"
       - image: "images/DMSI_Resize.png"
+    silver:
+      - image: "images/travefy.png"
 
   # Frequently asked questions.
   faq:
