@@ -103,10 +103,10 @@ event:
     - question: "Will there be prizes?"
       answer: >
         Expect more than $3,500 in prizes!
-    - question: "What is Major League Hacking?"
-      answer: >
-        Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
-        They work with over 200 Member Events and empower over 70,000 students every year.
+    # - question: "What is Major League Hacking?"
+    #   answer: >
+    #     Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
+    #     They work with over 200 Member Events and empower over 70,000 students every year.
     - question: "What if I don't have a team?"
       answer: >
         If you don’t have a team now, that’s okay! We’ll have team formation and events geared towards helping you find people to work with. Teams can have up to four students.
@@ -115,7 +115,11 @@ event:
         We’ll provide food for all meals. If you have dietary restrictions, we’ll try our best to accommodate them. We’ll also have snacks throughout the hackathon.
     - question: "Is there a code of conduct?"
       answer: >
-        Yes there is. You can find the [MLH's policy here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf) and [UNL's policy here](https://studentconduct.unl.edu/student-code-conduct).
+        Yes there is. You can find [UNL's policy here](https://studentconduct.unl.edu/student-code-conduct).
+
+    # - question: "Is there a code of conduct?"
+      # answer: >
+      #   Yes there is. You can find the [MLH's policy here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf) and [UNL's policy here](https://studentconduct.unl.edu/student-code-conduct).
     - question: "What if this is my first hackathon?"
       answer: >
         That's great! The most important thing is that you're there; have fun, and learn something. Go ahead and register to make the most out of the experience. It's completely free, so there's nothing to lose!
