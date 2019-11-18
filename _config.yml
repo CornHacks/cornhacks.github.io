@@ -33,7 +33,7 @@ event:
   name:        "CornHacks"
   description: "Undergraduate hackathon at UNL"
   date:        "January 18 - 19, 2020"
-  location:    "UNL"
+  location:    "Johnny Carson Center for Emerging Media Arts"
 
   trust_badge:
     year:   "2019"  # season year
