@@ -79,6 +79,7 @@ event:
     gold:
       - image: "images/Builder_Trend_0.jpg"
       - image: "images/DMSI_Resize.png"
+      - image: "images/SandhillsGlobal-Stacked_Logo_2Color_1_25_resized.jpg"
     silver:
       - image: "images/TravefyResize.png"
 
