@@ -50,7 +50,7 @@ event:
   hero2:
     links:
       - text: "View on DevPost"
-        href: "https://cornhacks-2019.devpost.com"
+        href: "https://cornhacks-2020.devpost.com"
 
   about:
     description: >
